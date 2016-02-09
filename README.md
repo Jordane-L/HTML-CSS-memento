@@ -1,6 +1,6 @@
 # HTML-CSS-Memento V1
 
-## I - Les familles de balises
+## I - Les deux familles de balises
 
 1.LES BALISES DE TYPE INLINE
 
