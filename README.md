@@ -34,7 +34,7 @@ Liste des balises block les plus courantes :
 
 ```<ul>``` permet de définir une liste à puce non ordonnée. C'est à dire qu'on aura par défaut des points qui viendront se placer devant chaque élément.
 
- ```<li>``` est la balise enfant de ```<ul>``` et ```<ol>```. Elle définit un élément de la liste. On peut insérer autant de <li> qu'on le souhaite au sein d'une balise ```<ul>``` ou ```<ol>```
+ ```<li>``` est la balise enfant de ```<ul>``` et ```<ol>```. Elle définit un élément de la liste. On peut insérer autant de ```<li>``` qu'on le souhaite au sein d'une balise ```<ul>``` ou ```<ol>```
  
 ```<ol>``` permet de définir une liste à puce ordonnée. C'est à dire qu'on aura par défaut des numéros qui viendront se placer devant chaque élément.
 
