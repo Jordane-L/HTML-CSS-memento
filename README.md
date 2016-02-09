@@ -6,17 +6,17 @@
 
 Liste des balises inline les plus courantes :
 
-```<a> ``` Permet d'insérer un lien
+```<a> </a> ``` Permet d'insérer un lien
 
 ```<img/>``` Balise auto-fermante (attention au / en fin de balise) qui permet d'insérer une image
 
-```<em>``` Permet de mettre en avant un mot de manière normale.
+```<em> </em>``` Permet de mettre en avant un mot de manière normale.
 
 ```<input/>``` Balise auto-fermante qui renvoie à un champ de formulaire
 
-```<span>``` Non sémantique, elle permet d'y mettre ce qu'on veut. Une sorte de balise fourre-tout (son équivalent dans la famille des balises block est ```<div>```)
+```<span> </span>``` Non sémantique, elle permet d'y mettre ce qu'on veut. Une sorte de balise fourre-tout (son équivalent dans la famille des balises block est ```<div>```)
 
-```<strong>```Permet de mettre en avant un mot de manière importante
+```<strong> </strong>```Permet de mettre en avant un mot de manière importante
 
 * **Particularités**
 - Qu'il y ait un retour à la ligne ou non entre deux balises de type inline dans le code, elles apparaitront toujours par défaut les unes à coté des autres dans le navigateur.
@@ -26,17 +26,17 @@ Liste des balises inline les plus courantes :
 
 Liste des balises block les plus courantes :
 
-```<p>``` Balise qui définit un paragraphe
+```<p> </p>``` Balise qui définit un paragraphe
 
-```<h1>, <h2>, <h3>, <h4>, <h5>, <h6>``` Balises qui permettent de définir des titres. Ceux-ci apparaissent par ordre hiérarchique. ```<h1>``` étant le plus important visuellement par défaut mais également aux yeux de Google. En général on utilise les trois premiers niveaux ```<h1>,<h2>,<h3>```
+```<h1> </h1>, <h2> </h2>, <h3> </h3>, <h4> </h4>, <h5> </h5>, <h6> </h6>``` Balises qui permettent de définir des titres. Ceux-ci apparaissent par ordre hiérarchique. ```<h1>``` étant le plus important visuellement par défaut mais également aux yeux de Google. En général on utilise les trois premiers niveaux ```<h1>,<h2>,<h3>```
 
-```<div>``` A la manière de la balise span, cette balise est neutre et sert à stocker des éléments de façon non sémantique. C'est une balise fourre-tout.
+```<div> </div>``` A la manière de la balise span, cette balise est neutre et sert à stocker des éléments de façon non sémantique. C'est une balise fourre-tout.
 
-```<ul>``` permet de définir une liste à puce non ordonnée. C'est à dire qu'on aura par défaut des points qui viendront se placer devant chaque élément.
+```<ul> </ul>``` permet de définir une liste à puce non ordonnée. C'est à dire qu'on aura par défaut des points qui viendront se placer devant chaque élément.
 
- ```<li>``` est la balise enfant de ```<ul>``` et ```<ol>```. Elle définit un élément de la liste. On peut insérer autant de ```<li>``` qu'on le souhaite au sein d'une balise ```<ul>``` ou ```<ol>```
+ ```<li> </li>``` est la balise enfant de ```<ul>``` et ```<ol>```. Elle définit un élément de la liste. On peut insérer autant de ```<li>``` qu'on le souhaite au sein d'une balise ```<ul>``` ou ```<ol>```
  
-```<ol>``` permet de définir une liste à puce ordonnée. C'est à dire qu'on aura par défaut des numéros qui viendront se placer devant chaque élément.
+```<ol> </ol>``` permet de définir une liste à puce ordonnée. C'est à dire qu'on aura par défaut des numéros qui viendront se placer devant chaque élément.
 
 **Particularités**
 - Qu'il y ait un retour à la ligne ou non entre deux balises de type block dans le code, elles apparaitront toujours par défaut les unes en dessous des autres dans le navigateur.
