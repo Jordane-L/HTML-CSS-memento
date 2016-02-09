@@ -22,6 +22,7 @@ Liste des balises inline les plus courantes :
 - Qu'il y ait un retour à la ligne ou non entre deux balises de type inline dans le code, elles apparaitront toujours par défaut les unes à coté des autres dans le navigateur.
 - Leur taille est déterminée automatiquement par leur contenu.
 
+
 2.LES BALISES DE TYPE BLOCK
 
 Liste des balises block les plus courantes :
@@ -43,6 +44,7 @@ Liste des balises block les plus courantes :
 - Leurs dimensions dépendent de leur parent dit "conteneur" par défaut.
 - Elles sont redimensionnables via le css
  
+
 3.ON PEUT TRANSFORMER UNE BALISE DE TYPE INLINE EN BALISE DE TYPE BLOCK ET INVERSEMENT
 
 Par exemple une balise ```<a>``` (balise inline par défaut) peut basculer dans la famille des balises de type block.
@@ -55,6 +57,7 @@ a {
 display: block;
 }
 ```
+
 
 4.ET SI ON FUSIONNAIT LES DEUX TYPES POUR AVOIR UNE SUPER BALISE
 
