@@ -18,7 +18,7 @@ Liste des balises inline les plus courantes :
 
 ```<strong> </strong>```Permet de mettre en avant un mot de manière importante
 
-* **Particularités**
+**Particularités**
 - Qu'il y ait un retour à la ligne ou non entre deux balises de type inline dans le code, elles apparaitront toujours par défaut les unes à coté des autres dans le navigateur.
 - Leur taille est déterminée automatiquement par leur contenu.
 
