@@ -10,13 +10,13 @@ Liste des balises inline les plus courantes :
 
 ```<img/>``` Balise auto-fermante (attention au / en fin de balise) qui permet d'insérer une image
 
-```<em> </em>``` Permet de mettre en avant un mot de manière normale.
+```<em> </em>``` Permet de mettre en avant un mot à un degré normal.
 
 ```<input/>``` Balise auto-fermante qui renvoie à un champ de formulaire
 
 ```<span> </span>``` Non sémantique, elle permet d'y mettre ce qu'on veut. Une sorte de balise fourre-tout (son équivalent dans la famille des balises block est ```<div>```)
 
-```<strong> </strong>```Permet de mettre en avant un mot de manière importante
+```<strong> </strong>```Permet de mettre en avant un mot à un degré important.
 
 **Particularités**
 - Qu'il y ait un retour à la ligne ou non entre deux balises de type inline dans le code, elles apparaitront toujours par défaut les unes à coté des autres dans le navigateur.
