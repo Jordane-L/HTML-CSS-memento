@@ -49,7 +49,7 @@ Par exemple une balise ```<a>``` (balise inline par défaut) peut basculer dans 
 
 **Comment ?**
  
-Dans votre feuille de style CSS, il suffit d'y appliquer cette règle en ciblant la balise 
+Dans votre feuille de style CSS, il suffit d'y appliquer cette règle en ciblant la balise de cette manière : 
 ```
 a {
 display: block;
